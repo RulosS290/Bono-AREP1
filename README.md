@@ -10,13 +10,6 @@ Se corrigio la infraestructura del Parcial Practico
 * [Maven](https://maven.apache.org/) - Manejador de dependencias
 * [Java](https://www.oracle.com/java/technologies/downloads/#java17) - Lenguaje de programación
 
-
-### Requisitos
-
-* [Git](https://git-scm.com/) - Control de versiones
-* [Maven](https://maven.apache.org/) - Manejador de dependencias
-* [Java](https://www.oracle.com/java/technologies/downloads/#java17) - Lenguaje de programación
-
 ### Instalación
 
 Realice los siguientes pasos para clonar el proyecto en su máquina local.
