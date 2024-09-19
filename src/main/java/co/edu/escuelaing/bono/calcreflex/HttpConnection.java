@@ -12,7 +12,7 @@ import java.net.URL;
 
 /**
  *
- * @author Daniel Torres
+ * @author daniel.torres-ac
  */
 public class HttpConnection {
 

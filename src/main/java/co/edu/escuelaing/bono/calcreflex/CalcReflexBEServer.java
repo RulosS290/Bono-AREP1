@@ -14,7 +14,7 @@ import java.util.Objects;
  
 /**
 *
-* @author Daniel Torres
+* @author daniel.torres-ac
 */
 public class CalcReflexBEServer {
  

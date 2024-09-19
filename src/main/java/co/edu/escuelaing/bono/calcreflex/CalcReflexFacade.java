@@ -14,7 +14,7 @@ import java.net.URISyntaxException;
 
 /**
 *
-* @author Daniel Torres
+* @author daniel.torres-ac
 */
 public class CalcReflexFacade {
  
